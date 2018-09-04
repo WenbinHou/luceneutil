@@ -1,0 +1,9 @@
+
+BASE_DIR = '/data/lucene'
+BENCH_BASE_DIR = '/data/lucene/util'
+
+PROCESSOR_COUNT = 8
+#FACET_FIELD_DV_FORMAT_DEFAULT='Lucene70'
+
+#SEARCH_NUM_THREADS = PROCESSOR_COUNT
+
